@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7BEFB-82EF-4928-93C1-765E69F28F2A}|adres\\adres.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCA7BEFB-82EF-4928-93C1-765E69F28F2A}|adres\\adres.vcxproj|solutionrelative:adres\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7BEFB-82EF-4928-93C1-765E69F28F2A}|adres\\adres.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\adres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCA7BEFB-82EF-4928-93C1-765E69F28F2A}|adres\\adres.vcxproj|solutionrelative:adres\\adres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "in.txt",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\in.txt",
+              "RelativeDocumentMoniker": "adres\\in.txt",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\in.txt",
+              "RelativeToolTip": "adres\\in.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-07T18:38:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adres.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\adres.cpp",
+              "RelativeDocumentMoniker": "adres\\adres.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework6\\adres\\adres\\adres.cpp",
+              "RelativeToolTip": "adres\\adres.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T17:46:31.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

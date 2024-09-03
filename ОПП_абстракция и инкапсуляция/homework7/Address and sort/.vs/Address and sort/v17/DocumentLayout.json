@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\Address and sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|solutionrelative:Address and sort\\Address and sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|solutionrelative:Address and sort\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2ECCF1DE-BF23-4BC1-9A31-81B50055BDEE}|Address and sort\\Address and sort.vcxproj|solutionrelative:Address and sort\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "out.txt",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\out.txt",
+              "RelativeDocumentMoniker": "Address and sort\\out.txt",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\out.txt",
+              "RelativeToolTip": "Address and sort\\out.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-07T21:42:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "in.txt",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\in.txt",
+              "RelativeDocumentMoniker": "Address and sort\\in.txt",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\in.txt",
+              "RelativeToolTip": "Address and sort\\in.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-07T21:41:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Address and sort.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\Address and sort.cpp",
+              "RelativeDocumentMoniker": "Address and sort\\Address and sort.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041E\u041F\u041F_\u0430\u0431\u0441\u0442\u0440\u0430\u043A\u0446\u0438\u044F \u0438 \u0438\u043D\u043A\u0430\u043F\u0441\u0443\u043B\u044F\u0446\u0438\u044F\\homework7\\Address and sort\\Address and sort\\Address and sort.cpp",
+              "RelativeToolTip": "Address and sort\\Address and sort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T21:40:04.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

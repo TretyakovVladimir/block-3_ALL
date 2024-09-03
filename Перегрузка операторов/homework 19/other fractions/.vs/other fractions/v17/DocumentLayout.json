@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041F\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043A\u0430 \u043E\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u043E\u0432\\homework 19\\other fractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89396970-80DA-42CD-8FD2-A800A42D505B}|other fractions\\other fractions.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041F\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043A\u0430 \u043E\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u043E\u0432\\homework 19\\other fractions\\other fractions\\other fractions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89396970-80DA-42CD-8FD2-A800A42D505B}|other fractions\\other fractions.vcxproj|solutionrelative:other fractions\\other fractions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "other fractions.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041F\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043A\u0430 \u043E\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u043E\u0432\\homework 19\\other fractions\\other fractions\\other fractions.cpp",
+              "RelativeDocumentMoniker": "other fractions\\other fractions.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041F\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043A\u0430 \u043E\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u043E\u0432\\homework 19\\other fractions\\other fractions\\other fractions.cpp",
+              "RelativeToolTip": "other fractions\\other fractions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T19:51:58.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

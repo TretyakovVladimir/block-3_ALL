@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041A\u043B\u0430\u0441\u0441\u044B \u0438 \u043E\u0431\u044A\u0435\u043A\u0442\u044B\\Homework 5\\counter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6444F19-18C4-49FD-B9E8-B13987C22A12}|counter\\counter.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041A\u043B\u0430\u0441\u0441\u044B \u0438 \u043E\u0431\u044A\u0435\u043A\u0442\u044B\\Homework 5\\counter\\counter\\counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6444F19-18C4-49FD-B9E8-B13987C22A12}|counter\\counter.vcxproj|solutionrelative:counter\\counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "counter.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041A\u043B\u0430\u0441\u0441\u044B \u0438 \u043E\u0431\u044A\u0435\u043A\u0442\u044B\\Homework 5\\counter\\counter\\counter.cpp",
+              "RelativeDocumentMoniker": "counter\\counter.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041A\u043B\u0430\u0441\u0441\u044B \u0438 \u043E\u0431\u044A\u0435\u043A\u0442\u044B\\Homework 5\\counter\\counter\\counter.cpp",
+              "RelativeToolTip": "counter\\counter.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:22:41.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

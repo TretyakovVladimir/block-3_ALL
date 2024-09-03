@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\mathematical functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|solutionrelative:mathematical functions\\mathematical functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\my_math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|solutionrelative:mathematical functions\\my_math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B11BA2D-2EB0-48D8-996D-32753BAB294F}|mathematical functions\\mathematical functions.vcxproj|solutionrelative:mathematical functions\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\Header.h",
+              "RelativeDocumentMoniker": "mathematical functions\\Header.h",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\Header.h",
+              "RelativeToolTip": "mathematical functions\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-02T13:57:38.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my_math.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\my_math.cpp",
+              "RelativeDocumentMoniker": "mathematical functions\\my_math.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\my_math.cpp",
+              "RelativeToolTip": "mathematical functions\\my_math.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T13:49:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mathematical functions.cpp",
+              "DocumentMoniker": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\mathematical functions.cpp",
+              "RelativeDocumentMoniker": "mathematical functions\\mathematical functions.cpp",
+              "ToolTip": "C:\\Users\\toanc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CPP_block3\\\u0411\u043B\u043E\u043A 3\\\u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\homework 11\\mathematical functions\\mathematical functions\\mathematical functions.cpp",
+              "RelativeToolTip": "mathematical functions\\mathematical functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T13:45:33.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
